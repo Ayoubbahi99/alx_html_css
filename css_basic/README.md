@@ -1,0 +1,1 @@
+CSS basic project is a learning phase where I get prepare to apply CSS knowledge in some hard and advanced projects.
