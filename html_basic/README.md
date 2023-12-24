@@ -1,0 +1,1 @@
+This project serves as an introduction to my basic HTML skills acquired as a software engineering student at ALX Africa. In this file, there are small projects that how I did apply some skills in html lessons.
